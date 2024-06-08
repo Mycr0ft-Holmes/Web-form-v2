@@ -1,0 +1,170 @@
+html{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(215, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ogcont{
+    display: block;
+    background-color: white;
+    padding: 5%;
+
+    
+}
+
+.header img{
+    display: block;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.description{
+    display: block;
+    text-align: justify;
+    border-color: black;
+    border-style: solid;
+    padding: 2%;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+    font-weight: bold;
+}
+
+.personalque label{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.personalque input{
+    width: 100%;
+    height: 50px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+
+}
+
+.personalque select{
+    width: 100%;
+    height: 30px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+}
+
+.que1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.que1 h2{
+
+    border-style: solid;
+    display: block;
+    text-align: center;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+    
+
+
+}
+
+.mcq{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.question1{
+
+    border-style: solid;
+    display: block;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+
+}
+
+
+.question2{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+    
+
+}
+
+.question3{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+}
+
+.question4{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+}
+
+.question1 label{
+    display: block;
+}
+
+.question2 label{
+    display: block;
+}
+
+.question3 label{
+    display: block;
+}
+
+.question4 label{
+    display: block;
+}
+
+.heading3{
+    border-style: solid;
+    display: block;
+    border-radius: 5px;
+    text-align: center;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+
+}
+
+
+.feedback textarea{
+    width: 99%;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+    
+}
+
+.feedback button{
+    display: block;
+    height: 50px;
+    width: 100%;
+    transition: 0.5s;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+
+}
+
+.feedback button:hover{
+    background-color: aqua;
+
+}
